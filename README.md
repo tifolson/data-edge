@@ -26,7 +26,7 @@ It functions by calling the desired data from Alpaca and placing it in a Postgre
   - Sign up for free to get API keys.
 
 ##Limitations and Considerations:
-- This is a research project used for identifying bottlenecks and managing data between multiple API owners.
+- This is a personal research project used for identifying bottlenecks and managing data between multiple API owners.
 - Timescale has a free 30-day trial. Sign up for free to get API keys and test the API for yourself.
   [TimescaleDB 30-Day Free Trial](https://console.cloud.timescale.com/signup)
 
@@ -41,7 +41,7 @@ Source: [Alpaca Historical Stock Data Documentation](https://docs.alpaca.markets
 Apache 2.0
 
 ## Disclaimer
-This tool is for informational purposes only. Tick data is subject to change at any time due to corruption, incorrect trade information, and data provider outages. Not financial advice. Use responsibly.
+This tool is for informational purposes only. Data from any provider is subject to change at any time due to corruption, incorrect information, and data provider outages. Not financial advice. Use responsibly.
 
 ---
 
